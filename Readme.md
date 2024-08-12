@@ -32,5 +32,5 @@ Method: GET
 You can test it via a web browser or using a tool like Postman.
 
 Output
-The generated CSV file will be saved in the output directory within the project folder.
+The generated CSV file will be saved in the output directory within the project folder, and you will get a response as a path of the file.
 
